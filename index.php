@@ -145,7 +145,7 @@ echo $row["price"]
         <?php
     }
 } else {
-    echo "0 个结果";
+    echo "暂无商品";
 }
  ?>
           </ul>

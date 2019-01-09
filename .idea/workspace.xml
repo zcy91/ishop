@@ -14,13 +14,23 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state relative-caret-position="345">
+              <caret line="147" column="14" lean-forward="false" selection-start-line="147" selection-start-column="14" selection-end-line="147" selection-end-column="14" />
               <folding>
-                <marker date="1547019874647" expanded="true" signature="903:920" ph="select * fro... adv" />
-                <marker date="1547019874647" expanded="true" signature="1905:1935" ph="SELECT * FRO... wenzhang" />
-                <marker date="1547019874647" expanded="true" signature="2856:2875" ph="SELECT * FRO... goods" />
+                <marker date="1547020964744" expanded="true" signature="903:920" ph="select * fro... adv" />
+                <marker date="1547020964744" expanded="true" signature="1905:1935" ph="SELECT * FRO... wenzhang" />
+                <marker date="1547020964744" expanded="true" signature="2856:2875" ph="SELECT * FRO... goods" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conn.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -30,7 +40,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>session</find>
+      <find>session_star</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,8 +64,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="197" />
-    <option name="y" value="98" />
+    <option name="x" value="521" />
+    <option name="y" value="34" />
     <option name="width" value="1294" />
     <option name="height" value="1038" />
   </component>
@@ -111,12 +125,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547019212750</updated>
-      <workItem from="1547019214002" duration="831000" />
+      <workItem from="1547019214002" duration="1750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="831000" />
+    <option name="totallyTimeSpent" value="1750000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -128,7 +142,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="197" y="98" width="1294" height="1038" extended-state="0" />
+    <frame x="521" y="34" width="1294" height="1038" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -163,14 +178,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/conn.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="1118" column="20" lean-forward="false" selection-start-line="1118" selection-start-column="20" selection-end-line="1118" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_navicat.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3777">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="147" column="14" lean-forward="false" selection-start-line="147" selection-start-column="14" selection-end-line="147" selection-end-column="14" />
           <folding>
-            <marker date="1547019874647" expanded="true" signature="903:920" ph="select * fro... adv" />
-            <marker date="1547019874647" expanded="true" signature="1905:1935" ph="SELECT * FRO... wenzhang" />
-            <marker date="1547019874647" expanded="true" signature="2856:2875" ph="SELECT * FRO... goods" />
+            <marker date="1547020964744" expanded="true" signature="903:920" ph="select * fro... adv" />
+            <marker date="1547020964744" expanded="true" signature="1905:1935" ph="SELECT * FRO... wenzhang" />
+            <marker date="1547020964744" expanded="true" signature="2856:2875" ph="SELECT * FRO... goods" />
           </folding>
         </state>
       </provider>
