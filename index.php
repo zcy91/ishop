@@ -83,7 +83,7 @@ $flag=0;
 
                   if ($result->num_rows > 0) {
                       // 输出每行数据
-                      while($row = $result->fetch_assoc()) {
+                      while($row = mysqli_fetch_assoc($result)) {
                    ?>
                     <li><a  href="/article.php?wzid=<?php echo $row['id'];
                       if (isset($_REQUEST['uid'])) {
