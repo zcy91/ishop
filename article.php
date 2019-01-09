@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <?php
-session_start();
+
 include 'conn.php';
 if (isset($_REQUEST['wzid'])) {
   $wzid = $_REQUEST['wzid'];

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
 <?php
-session_start();
+
 include '../conn.php';
 
 $uid=$_REQUEST['uid'];

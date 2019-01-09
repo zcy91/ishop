@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 include '../conn.php';
 if (!isset($_REQUEST['uid'])||!isset($_REQUEST['gid'])||!isset($_REQUEST['count'])) {
   echo "非法访问！";

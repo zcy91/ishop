@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 if (!isset($_REQUEST['uid'])) {
   echo "非法访问！";
   exit;

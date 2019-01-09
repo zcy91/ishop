@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 include '../conn.php';
 include 'function.php';
 if (!isset($_REQUEST['uid'])) {

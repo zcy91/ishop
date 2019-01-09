@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 include 'conn.php';
 //获取URL参数中的id
 $goods_id = $_REQUEST['id'];
